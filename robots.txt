@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-i6d61i.indocuan-pro.site/sitemap.xml
